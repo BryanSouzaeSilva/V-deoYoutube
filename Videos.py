@@ -80,5 +80,8 @@ tk.Label(janela, textvariable=status_var, fg="blue").pack()
 
 janela.mainloop()
 
+
+# sudo apt install python3-venv - INSTALA O VENV PARA AMBIENTES VIRTUAIS
+# python3 -m venv meu_ambiente - CRIA UM AMBIENTE VIRTUAL
 # source Teste-Video/bin/activate - ATIVAR O AMBIENTE VIRTUAL
 # deactivate - DESATIVAR O AMBIENTE VIRTUAL
